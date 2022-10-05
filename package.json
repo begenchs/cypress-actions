@@ -45,6 +45,7 @@
     ]
   },
   "devDependencies": {
+    "cypress-log-to-output": "^1.1.2",
     "eslint-plugin-cypress": "^2.12.1"
   }
 }
