@@ -20,4 +20,7 @@ module.exports = defineConfig({
   },
   experimentalStudio: true,
   video: false,
+  env: {
+    REACT_APP_MOVIE_API: 'fake'
+  }
 });
