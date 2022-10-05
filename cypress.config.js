@@ -7,7 +7,7 @@ module.exports = defineConfig({
   projectId: 'tzzaac',
   e2e: {
     setupNodeEvents(on, config) {
-      require('cypress-log-to-output').install(on)
+      //require('cypress-log-to-output').install(on)
       // implement node event listeners here
     },
   },
